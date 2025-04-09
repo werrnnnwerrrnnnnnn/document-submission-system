@@ -1,0 +1,15 @@
+{
+    "Records": [
+      {
+        "s3": {
+          "bucket": {
+            "name": "doc-submission-bucket-124875"
+          },
+          "object": {
+            "key": "demo-user/test-assignment.pdf",
+            "size": 123456
+          }
+        }
+      }
+    ]
+  }

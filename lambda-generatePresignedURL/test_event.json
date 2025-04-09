@@ -1,0 +1,6 @@
+{
+    "queryStringParameters": {
+      "filename": "sample.pdf",
+      "user": "demo-user"
+    }
+  }
